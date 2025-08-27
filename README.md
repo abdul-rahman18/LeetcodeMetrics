@@ -3,7 +3,7 @@
 ### What is Leetcode Metrics ?
 Leetcode Metrics is a site that allows you to fetch crutial info about a leetcode data , such as their progress so far.
 
-You can visit this wbesite here : 
+You can visit this wbesite here : https://abdul-rahman18.github.io/LeetcodeMetrics/
 
 ### What does it actually show ?
 It shows 7 crutial thing you need to know about an user, they are : 
