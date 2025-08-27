@@ -50,12 +50,12 @@ If you face an issue , something like , No data found , that is due to proxy ser
 
 ### Output images / website preview : 
 
-![](./images/op1.png)
 > user on leetcode website
-![](./images/op2.png)
+![](./images/op1.png)
 > user's details
-![](./images/op3.png)
+![](./images/op2.png)
 > My profile
+![](./images/op3.png)
 
 ### Images during development : 
 
