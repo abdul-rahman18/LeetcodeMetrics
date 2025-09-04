@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded",()=>{
 
 
         const cardsData = [
-        {label:"Overall Problems",value:parsedData.data.matchedUser.submitStats.totalSubmissionNum[0].count},
+        {label:"Overall Problems",value:parsedData.data.matchedUser.submitStats.acSubmissionNum[0].count},
         {label:"Overall Easy Submissions",value:parsedData.data.matchedUser.submitStats.totalSubmissionNum[1].submissions},
         {label:"Overall Medium Submissions",value:parsedData.data.matchedUser.submitStats.totalSubmissionNum[2].submissions},
         {label:"Overall Hard Submissions",value:parsedData.data.matchedUser.submitStats.totalSubmissionNum[3].submissions}
