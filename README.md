@@ -46,7 +46,7 @@ I learned :
 - Learned error handling.
 - and much more...
 
-If you face an issue , something like , No data found , that is due to proxy server. Just to this website : https://cors-anywhere.herokuapp.com/corsdemo and hit "Request temporary access to the demo server" , then wait for few second and it should work fine.
+If you face an issue , something like , No data found , that is due to proxy server. Just head over to this website : https://cors-anywhere.herokuapp.com/corsdemo and hit "Request temporary access to the demo server" , then wait for few second and it should work fine.
 
 ### Output images / website preview : 
 
